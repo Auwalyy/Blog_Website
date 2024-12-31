@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { blog_data } from '@/Assets/assets' 
+import { blog_data } from '@/assets/assets'
 import BlogItem from "./BlogItem"
 
 const BlogList = () => {
